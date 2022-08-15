@@ -1,0 +1,12 @@
+.search-box{
+  border-radius: 10px;
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gallery > img {
+  flex: 1;
+  object-fit: cover;
+}
